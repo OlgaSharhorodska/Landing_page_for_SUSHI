@@ -1,0 +1,13 @@
+body{
+    background-image: url(./shusi_world.jpg);
+  
+}
+
+h1{
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.black{
+    background-color: black;
+}
